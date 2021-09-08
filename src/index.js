@@ -10,4 +10,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// or seddnd to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// or seddnd to an analytics endpoint. Learn more: https://abit.ly/CRA-vitals
